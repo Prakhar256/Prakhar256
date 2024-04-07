@@ -1,5 +1,5 @@
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=MrStanDu33&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=Prakhar256&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -57,80 +57,3 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<details>
-  <summary>Quelques statistiques ...</summary><br/>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C433%20hrs%2017%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-502-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 2.5 MB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 41 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1169 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-🌆 Daytime                11134 commits       ██████████████░░░░░░░░░░░   55.98 % 
-🌃 Evening                6904 commits        █████████░░░░░░░░░░░░░░░░   34.71 % 
-🌙 Night                  683 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   4285 commits        █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-Tuesday                  3863 commits        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Wednesday                3878 commits        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Thursday                 2576 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Friday                   2512 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Saturday                 1660 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Sunday                   1116 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-Other                    14 hrs 52 mins      █████████████████████░░░░   83.23 % 
-Vue.js                   1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-sh                       20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-JavaScript               19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-
-🔥 Editors: 
-Chrome                   14 hrs 38 mins      ████████████████████░░░░░   81.95 % 
-VS Code                  2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
-Zsh                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-
-💻 Operating System: 
-Windows                  14 hrs 38 mins      ████████████████████░░░░░   81.95 % 
-WSL                      3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-PHP                      10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     9 repos             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Vue                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-```
-
-
-
-
- Last Updated on 07/04/2024 00:05:32 UTC
-<!--END_SECTION:waka-->
-</details>
