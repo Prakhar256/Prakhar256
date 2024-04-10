@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Prakhar Jain! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZqbTFscHV3aDgzemZpbG54ZzE2ZWJ6ajNwOHdrY2ltd3ZoaHZ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width="410" height="490">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZqbTFscHV3aDgzemZpbG54ZzE2ZWJ6ajNwOHdrY2ltd3ZoaHZ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width="350" height="490">
 <p><em>Undergraduate at <a href="https://www.iiita.ac.in/">Indian Institute of Information Tehnology, Allahabad</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Consistently upskilling myself in Software Domain from past 2 years<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
