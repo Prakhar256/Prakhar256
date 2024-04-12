@@ -26,7 +26,7 @@ const Prakhar = {
   tools: [React, Redux, Node, Next, MongoDB, MATLAB],
   architecture: ["microservices", "event-driven", "design system pattern"],
   
- Motivation: "Work consistently and upgrade to your version everyday :)"
+ Motivation: "Work consistently and upgrade yourself to a better version everyday :)"
 }
 ```
 
