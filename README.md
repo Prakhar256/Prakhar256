@@ -1,5 +1,9 @@
-
-<h2> Hi, I'm Prakhar Jain! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey!%20Thats%20Me%20Prakhar%20😉&animation=fadeIn&type=waving&color=gradient&height=160&section=header"/>
+</p>
+<div align="center">
+<a href="https://pabitrabanerjee.me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&background=2D293EE4&center=true&vCenter=true&width=600&lines=Hello+Programmers+!;I+Am+A+Full-Stack-Web-Developer;Computer+Science+Enthusiast;JavaScript+%3A+React+Node+Express;Open+Source+Contributor;Next+Js+TypeScipt+Developer" alt="Typing SVG" /></a>
+</div>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZqbTFscHV3aDgzemZpbG54ZzE2ZWJ6ajNwOHdrY2ltd3ZoaHZ2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width="300" height="490">
 <p><em>Undergraduate at <a href="https://www.iiita.ac.in/">Indian Institute of Information Tehnology, Allahabad</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Consistently upskilling myself in Software Domain from past 2 years<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
