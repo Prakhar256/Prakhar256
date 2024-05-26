@@ -18,6 +18,9 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Prakhar256&layout=compact" alt="GitHub Streak" />
   </a>
+</br>
+  </br>
+  <a href = "https://pabitrabanerjee.me"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakhar256&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a>
 </div>
 
 
