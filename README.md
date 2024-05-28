@@ -31,7 +31,6 @@ const Prakhar = {
   pronouns: "he" | "him",
   code: [C++, Javascript, Typescript, HTML, CSS, Tailwind CSS, Java, SQL],
   tools: [React, Redux, Next, Redis, Cloudinary, Node, Next, MongoDB, MATLAB],
-  architecture: ["microservices", "event-driven", "design system pattern"],
   
  Motivation: "Work consistently and upgrade yourself to a better version everyday :)"
 }
